@@ -1,0 +1,11 @@
+- work on creating a to do list in python, push it to a different branch. Create a pull request
+
+- creating and launching a gui
+- add a button to gui with a check mark icon and text user can input
+- option to delete created todo
+- add support to show created todo when gui window is closed and opened
+- add functionality to mark todo as completed
+- add a night and dark mode
+- add color coding for todo
+- add a calendar widget to associate date to a todo
+- add an option to assign categories to todo
